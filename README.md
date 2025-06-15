@@ -8,9 +8,7 @@ This repo is a curated list of papers about automatic agentic workflow. We will 
 
 # Contents
 
-- [Awesome papers on Automatic Agentic Workflow](#Awesome papers on Automatic Agentic Workflow)
-
-- [Contents](#contents)
+- [Year](#contents)
 
   - [2025](#2025)
 
