@@ -16,9 +16,10 @@ This repo is a curated list of papers about automatic agentic workflow. We will 
 
 ### 2025
 
-- **DebFlow: Automating Agent Creation via Agent Debate** [[pdf](https://arxiv.org/abs/2503.23781)]
+- **Weak-for-Strong: Training Weak Meta-Agent to Harness Strong Executors** [[pdf](https://arxiv.org/pdf/2504.04785?)] 2025/04/07
+- **DebFlow: Automating Agent Creation via Agent Debate** [[pdf](https://arxiv.org/pdf/2503.23781)]
 - **GNNs as Predictors of Agentic Workflow Performances** [[pdf](https://arxiv.org/pdf/2503.11301)]
-- **FlowAgent: Achieving Compliance and Flexibility for Workflow Agents** [[pdf](https://arxiv.org/abs/2502.14345)]
+- **FlowAgent: Achieving Compliance and Flexibility for Workflow Agents** [[pdf](https://arxiv.org/pdf/2502.14345)]
 
 ### 2024
 
