@@ -24,4 +24,5 @@ This repo is a curated list of papers about automatic agentic workflow. We will 
 
 - **Automated Design of Agentic Systems** [[pdf](https://arxiv.org/pdf/2408.08435)]
 - **Aflow: Automating agentic workflow generation** [[pdf](https://arxiv.org/pdf/2410.10762)]
-- **GPTSwarm: Language Agents as Optimizable Graphs** [[pdf]()]
+- **GPTSwarm: Language Agents as Optimizable Graphs** [[pdf](https://arxiv.org/pdf/2402.16823)]
+- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** [[pdf](https://arxiv.org/pdf/2308.00352)]
