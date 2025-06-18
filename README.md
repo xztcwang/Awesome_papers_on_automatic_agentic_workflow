@@ -1,4 +1,4 @@
-# Awesome papers on Automatic Agentic Workflow Optimization
+# Awesome papers on Agentic Workflow Optimization
 
 
 
