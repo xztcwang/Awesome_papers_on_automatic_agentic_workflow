@@ -1,0 +1,17 @@
+questions：
+1. the scope of this survey: 
+	a. automatic improvement of prompts (should we briefly discuss this, and mention there are many surveys focusing on this area? ), 
+	b. automatic generation of agents, 
+	c. automatic optimization of pipeline workflow (communication, collaboration, debate across agents, loops),  
+
+2. the structure of this survey: 
+	- importance study of workflow: (evaluate workflows; failure attribution of agents)
+	- task definition
+		- task-level workflow optimization
+		- query-level workflow optimization
+	- topology
+		- encoding/modeling of workflow
+		- definition of search space
+		- search algorithm, and rl
+	- benchmark
+	- future direction
