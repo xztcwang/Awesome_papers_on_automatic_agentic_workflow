@@ -1,0 +1,26 @@
+questions：
+1. the scope of this survey: 
+	a. automatic improvement of prompts (should we briefly discuss this, and mention there are many surveys focusing on this area? ), 
+	b. automatic generation of agents, 
+	c. automatic optimization of pipeline workflow (communication, collaboration, debate across agents, loops),  
+
+2. the structure of this survey: 
+	- importance study of workflow: (evaluate workflows; failure attribution of agents)
+		- Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems
+		- Which agent causes task failures and when? on automated failure attribution of llm multi-agent systems
+		
+	- task definition
+		- task-level workflow optimization
+			- VFlow: Discovering Optimal Agentic Workflows for Verilog Generation
+			- G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks
+		- query-level workflow optimization
+			- MermaidFlow: Redefining Agentic Workflow Generation via Safety-Constrained Evolutionary Programming
+			- ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization
+	- topology
+		- encoding/modeling of workflow
+		- definition of search space
+		- search algorithm, and rl
+	- evaluation
+		- metric
+		- benchmark
+	- future direction
